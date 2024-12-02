@@ -16,7 +16,7 @@ import requests
 url = "https://adventofcode.com/2024/day/2/input"
 
 # Token de sesión (si el contenido requiere autenticación)
-session_token = "53616c7465645f5fe0f3bb6fbe23026a656434014c369f38d609c2007049bdb8f41080ebd263497dba705ff4f763e597884272873c98ba208d66fb73fa149a85"
+session_token = "SESSION TOKEN"
 
 # Cabecera con la cookie de autenticación
 headers = {
